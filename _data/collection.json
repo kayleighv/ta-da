@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Interview with Alice Walker - Complex" ] },
+    "summary": { "en": [ "Ta-da! Here's an example of what a completed project can look like.\r\n\r\nThis project was created for a Digital Humanities Workshop @ PCL, UT Austin, in Spring 2022." ] },
+    "items": [
+    ]
+}
