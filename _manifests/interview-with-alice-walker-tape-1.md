@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Interview with Alice Walker - Tape 1
+title: Tape 1, Side A
 manifest_name: interview-with-alice-walker-tape-1
 
 ---
