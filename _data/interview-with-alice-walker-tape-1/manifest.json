@@ -1,0 +1,40 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kayleighv.github.io/ta-da/interview-with-alice-walker-tape-1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with Alice Walker - Tape 1" ] },
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu/about/",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kayleighv.github.io/ta-da/interview-with-alice-walker-tape-1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2857.0,
+        "items": [
+          {
+            "id": "https://kayleighv.github.io/ta-da/interview-with-alice-walker-tape-1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kayleighv.github.io/ta-da/interview-with-alice-walker-tape-1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/1051.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2857.0
+                },
+                "target": "https://kayleighv.github.io/ta-da/interview-with-alice-walker-tape-1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
