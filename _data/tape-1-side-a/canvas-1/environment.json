@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker's chair scrapes across the ground as she stands up.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "78.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker clink glasses in a \"cheers\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "122.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker take a moment to look at the menu.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "744.0,752.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker take a moment to look at the menu.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "763.0,786.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A waiter tells Gussow and Walker about the day's specials and takes their order.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "786.0,846.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The waiter drops off some simple syrup for Walker to use to sweeten the iced tea she ordered.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1295.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A thud, not acknowledged.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1847.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Someone passes gas..?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2223.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker thanks a waiter, who says \"you're welcome\" in reply.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2599.0,2600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The food is served.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2707.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A waitress asks if she should remove the bread; Walker confirms she can.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2714.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas/environment-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prolonged sound of ice moving in a glass—perhaps Walker stirs some sweetener into her tea.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-a/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2736.0,2750.0"
+        }
+      }
+    }
+  ]
+}
