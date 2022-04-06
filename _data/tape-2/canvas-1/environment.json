@@ -1,0 +1,155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The waiter offers coffee, tea, or dessert.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.011428571428571429,0.012108843537414966"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow asks for the check.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.022267573696145123"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A clattering suggests the coffee and tea have arrived and are being handled.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.022244897959183673,0.022448979591836733"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A fan interrupts to tell Walker that her how much she values her story \"To Hell With Dying\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.026303854875283448,0.02687074829931973"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow thanks the waiter, who perhaps has dropped off the check.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.04126984126984127"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Faint rustling of paper.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.041360544217687076,0.04206349206349207"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The sounds of Walker opening and signing a book for Gussow.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.042222222222222223,0.04251700680272109"
+        }
+      }
+    }
+  ]
+}
