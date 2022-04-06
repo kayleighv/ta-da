@@ -15,14 +15,6 @@
         "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2473.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/speaker.json",
-            "label": "Speaker"
-          }
-        ],
         "items": [
           {
             "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/paintings",
