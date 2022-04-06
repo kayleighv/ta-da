@@ -22,6 +22,12 @@
             "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/environment.json",
             "label": "Environment"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
         ],
         "items": [
           {
