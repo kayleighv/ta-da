@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prolonged sound of ice moving in a glass—perhaps Walker stirs her tea.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408.0,430.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prolonged sound of ice moving in a glass—perhaps Walker stirs her tea.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,812.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/environment-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The waiter tries to clear away the food, but is stopped by Gussow and Walker.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1240.0,1242.0"
+        }
+      }
+    }
+  ]
+}

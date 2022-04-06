@@ -1,0 +1,2003 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I know some people have a problem with this, but I was never—I didn't feel threatened by collaboration. I was excited by it. It amused me to see how people—to see peoples' take on certain things, and I kind of knew we were creating something different. I guess what I really was concerned about was that it keep all the heart and the spirit.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "74.0,108.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker expresses regret that the character Mister is not \"embraced\" at the end of the film adaptation.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says actor Danny Glover \"did a fine thing\" by researching her grandfather to prepare for his role in the film.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says <em>Meridian</em> would become a movie \"one day\"—she hopes.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "175.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that she thinks the civil rights movement should be told \"from a personal point of view\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "188.0,244.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"What about the girls who were just coming to life at that time and understanding what was happening, what the possibility was for a different kind of life? What about the young men who were beaten up so badly or were killed? What about their love relationships, their relationships with their parents?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "220.0,244.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When I was writing [<em>Meridian</em>], I was really very conscious of wanting to leave a record of the interior life—because I figured we'd all see enough of firehoses and dogs and police and [indistinct]—but we wouldn't see those little acts of heroism.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "244.0,267.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that a mayor in Mississippi displayed a tank (\"Thompson's tank\") to intimidate civil rights activists.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "267.0,291.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Facing the real threat of violence in the South \"was preferable to feeling afraid in the North and not being able to go home.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.0,307.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that most of her siblings left the South and never returned.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "307.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I think it's another kind of gfit—that sometimes when you're wounded, or you have such incredible suffering, your people are put in concentration camps or your people are lynched or your people are disappeared—you know, what do you do with it? What do you do with it? If you can't make art, what are you gonna do?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "414.0,447.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "446.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says that repression of suffering can lead people to commit suicide or abuse others.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker and Gussow discuss why someone might not share their trauma—shame, embarrassment, \"maybe a degree of disbelief\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "486.0,522.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I remember when I was going around talking about female genital mutilation, especially in London, where they had recently—they were trying to pass a law to stop it from happening in London. And I remember an African woman once saying to me that she was upset because I was working on this, she said because now every time someone sees an African woman on the street, this is what they'll be thinking, and how embarrassing and how humiliating—and it is. However, so I said to her, well, what is the alternative? What is the alternative? And we just sat there with that between us. Because the alternative is that you do nothing and then every African woman you see, or so many that you see, will have been wounded as children and nobody will have said a thing about it and it'll just keep going on.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "531.0,598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On why her political beliefs don't necessarily push her to keep up a writing career: \"Maybe what's being born is something that's not so interested in adversity. Or maybe what's being born is something that wants to just go and be with the adversity and not write about it. Just be the person who's there to hold somebody, I mean, that's important. And sometimes I think that's where writing is leading. Which is fine—just drop the pen and grab the person.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "618.0,653.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "654.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker is asked how her poetry and her fiction are related; she says that poetry \"often comes first\" and \"sends a signal\" for later development through fiction.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "676.0,792.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker mentions being at a reading in Chicago \"a couple of nights ago\" and the writing she selected to read.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "680.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When I thought I was, quote, just writing poetry, I was also marking these places that needed to be looked at more.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "783.0,792.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she \"can't really\" stop writing poetry while she works on novels or short stories, though she does write less poetry at those times because she's \"so present\" for the events of the novel—\"although sometimes the characters write poetry.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "809.0,858.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Of all of them, poetry is the most free. It just chooses its own time. And I just hope I'm there to get it.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "815.0,831.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "852.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker describes her experience on the Rose O'Donnell Show earlier that day, where they discussed Mae West and being \"trapped in your reputation\". (<em>The Way Forward Is with a Broken Heart</em> opens with the following quote from Mae West: \"I wrote the story myself. It's all about a girl who lost her reputation but never missed it.\")",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "884.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "898.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "911.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she loves Mae West for her \"one liners\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "918.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "986.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow points out references to Mary Tyler Moore and the movie <em>Bridges of Madison County</em> in <em>The Way Forward Is with a Broken Heart</em>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "972.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "990.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says that she read \"everything\" while living in Mississippi. Although her favorite writer is Leo Tolstoy, but she began \"discovering\" and reading more writing by Black authors while in Mississippi including <em>Their Eyes Were Watching God</em>, <em>Cane</em>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1013.0,1056.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker groans.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1065.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When I was a student at Spelman, right after my freshman year, I went to Russia. And I was so innocent, I didn't really know hardly what was going on. So when I came back, I took this course with Howard Zinn, who was teaching Russian literature and language—not that he spoke it, really, but he had a few words and he very generously taught it to us.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1069.0,1096.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I used to think that Russian writers, that what they could do was almost unbelievable. Creating worlds, societies, human anguish, passion—and Tolstoy is just a master.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1104.0,1127.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I think the thing is I really fell in love with Tolstoy himself in the same way that I love my grandfather. They were so much alike, which, is, again, ironic, because he was Count Tolstoy and my grandfather was a poor farmer. But in terms of how they grew, very similar. Tolstoy was really a rogue and a devil when he was young. And in fact, one of the sadder things about him is that he raped some of the serfs, the women, who lived on his, basically, his plantation. And he was just a dissolute, irresponsible cad of a person as a young man. And then he started seeing how it all goes, what life is. And he grew and grew and grew until he became this old man who didn't want to own anything, who didn't want to be married and died alone, trying to get away.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1161.0,1250.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Did you know that when people are dying, they often try to run away?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1253.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I've been getting very interested in dying and death.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1264.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker voices an interest in end of life care and \"hospice work\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1264.0,1294.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On Tolstoy: \"I love him because he could see that he was the whole spectrum. And he was able to write about the whole spectrum from the point of view of someone who had done some really despicable things. Maybe I just like rascals.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1378.0,1347.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1348.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she had no television and no radio for most of her childhood.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1376.0,1396.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker describes time she spent in the Amazon in May studying \"plant medicines\" that \"change your consciousness\", including ayahuasca, \"the television of the jungle\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1402.0,1500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she won't describe the visions she had when she took ayahuasca.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1481.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"What I'm learning is that the indigenous take on everything is just so different from the western thought.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1516.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker names <em>Black Elk Speaks</em> as one of her favorites and reflects on the importance of visions in the culture depicted in that book.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1528.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When you are given a vision, a great vision—and it's not great in terms of bigger than anybody else's, it's your great vision... your little great vision—you have to act it out. You have to create it so that people can see it and use it. That's how you keep it going. You can't keep it for yourself.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1505.0,1595.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she probably won't return to the Amazon because the trip was very difficult.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1637.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she now has \"so much empathy\" for peoples living in the Amazon.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1642.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On the rainforest: \"It's never quiet. And at night, the frogs are so loud it's like you're living right by a train station. I'd never thought of that.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1712.0,1724.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she doesn't plan to write about her trip to the Amazon.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1732.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1732.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"In a way it feels so good to keep things for myself.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1735.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow brings up an article Walker wrote \"for <em>the Times</em> about meditation\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1798.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1768.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1778.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I'm looking at the liveliness of your eyes, and I think [meditation] would do a lot. You're obviously really alive anyway, but meditation sort of fuels that. It helps it to really stay steady. And it gives you a little time each day to duck out so you can recharge that.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1781.0,1813.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker coughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1815.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Tell 'em Alice sent you.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1819.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Violence and drugs are both really, in my opinion, really obsolete.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1839.0,1842.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Unless people start charging you for breathing, you can always afford [to meditate].\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1860.0,1864.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker attributes meditation to Indian and Asian culture.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When asked if she hates anyone, Walker says no.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1877.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1886.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker discuss hatred.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1877.0,2264.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker discuss amnesty trials in post-apartheid South Africa; Walker says she doesn't think this practice \"will work that well\" because \"it's too deep\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1941.0,2084.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker talks about her experience viewing the film \"Long Night's Journey Into Day\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2001.0,2094.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker mentions the film \"Mississippi Burning\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2084.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"They're pathetic. That's the answer. I just can't hate people who don't have a clue.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2093.0,2108.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"It's an emotional mangling.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2129.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I know in this culture people think that this is the only lifetime we're here—I don't think so.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2149.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2158.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker discusses her personal beliefs regarding life and death.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2149.0,2242.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2175.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I just have this feeling that there is a kind of recycling that happens to everything and that nothing really goes anywhere.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2233.0,2242.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I feel lighter not carrying hatred.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I never thought I'd reach this age. I thought I would be dead by 30 either from suicide or assassination or homicide or something. So the last 26 years have felt like a miracle.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2280.0,2308.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she never imagined as a child she would be a writer.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she's \"thinking about singing\" like she's observed people do in Mexico, for the sake of music.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2340.0,2388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says that she loves Mexico and visits frequently.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2368.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2402.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she feels \"very at home\" in Berkeley, CA.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2406.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says they are in Gussow's neighborhood upon hearing he lives on 10th Street.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2445.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker describes life at her house and studio in Mendecino, CA, where she goes to retreat from city life.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2497.0,2565.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she \"dreams really well\" at her country home.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2563.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker \"confesses\" that she now writes on a laptop and names its advantages.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2580.0,2617.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But she says she was \"really attached\" to writing on legal pads, which she got from her ex-husband, a lawyer, during their marriage.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2619.0,2635.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she felt guilty about owning large homes after being rasied in poverty, which prompted her to invite guests to stay \"in various parts\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2656.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker says she's selling a home in Mexico.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2675.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2680.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On Walker's mother calling her \"a mess\" before she died: \"It meant she was seeing me for the first time. The real me. Not the really super good girl. Because I ahve always been so polite and respectful... it was hard for my mother to ever—becasue seh wasn't an intellectual—it was hard for her to see that I was also subversive and rebellious.... on her death bed, she got it. That all these years she'd been dealing with someone who very much had her own mind.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2702.0,2764.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker mentions what she calls her mother's \"fundamentalism\".",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2783.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas/speaker-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker laughs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-1-side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2845.0"
+        }
+      }
+    }
+  ]
+}
