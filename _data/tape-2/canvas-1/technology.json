@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/technology.json",
+  "type": "AnnotationPage",
+  "label": "Technology",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/technology-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow stops the recording abruptly.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2471.0"
+        }
+      }
+    }
+  ]
+}
