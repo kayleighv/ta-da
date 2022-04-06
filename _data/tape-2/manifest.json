@@ -19,12 +19,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/environment.json",
-            "label": "Environment"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://kayleighv.github.io/ta-da/tape-2/canvas-1/canvas/technology.json",
             "label": "Technology"
           }
